@@ -6,5 +6,4 @@ IO.println(ronaldo.getHumor());
 ronaldo.setFome(80);
 ronaldo.setEnergia(76);
 IO.println(ronaldo.getHumor());
-
 }

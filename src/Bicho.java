@@ -53,5 +53,4 @@ public class Bicho {
             return humor = "ta mac";
         }
     }
-
 }
